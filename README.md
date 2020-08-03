@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Raj. I code and I write about code. 👋
+Check out my website <a href="https://pedelcode.com">here</a>
 
 <!--
 **Radioactive92177/Radioactive92177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
