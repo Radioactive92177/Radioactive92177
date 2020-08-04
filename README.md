@@ -1,4 +1,4 @@
-## Hi, I'm Raj. I code and I write about code. 👋
+<h3 align="center"> Hi, I'm Raj. I code and I write about code. 👋</h3>
 
 <!--
 **Radioactive92177/Radioactive92177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">My TechStack</p>
+<h2 align="center">My TechStack</h2>
 <p align="center"><img src="https://github.com/Radioactive92177/Radioactive92177/blob/master/assets/techStack.png"></p>
 
 <p align="center">
