@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">My TechStack</p>
+<p align="center"><img src="assets/techStack.png"></p>
 
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/?username=RadioActive92177&count_private=true&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
@@ -25,5 +26,5 @@ Here are some ideas to get you started:
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadioActive92177&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
-<p align="right"><img src="assets/techStack.png"></p>
+
 Check out my website <a href="https://pedelcode.com">here</a>
