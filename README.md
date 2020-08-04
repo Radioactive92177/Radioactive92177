@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github.com/Radioactive92177/Radioactive92177/blob/master/assets/techStack.png"></p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadioActive92177&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 	<img src="https://github-readme-stats.vercel.app/api/?username=RadioActive92177&count_private=true&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadioActive92177&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img> -->
